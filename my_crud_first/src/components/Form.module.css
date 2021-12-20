@@ -1,0 +1,66 @@
+
+.formulario_grupo {
+  
+  position: absolute;
+  top: 10rem;
+  
+  
+}
+.entry {
+ width: 25rem;
+ margin-left: 18%;
+}
+.btn{
+    width: 25rem;
+    margin-left: 18%;
+    background-color: turquoise;
+    font-style: italic;
+}
+.title{
+    margin-left: 20%;
+    margin-bottom: 50px;
+}
+.name_list{
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
+.btn_delete{
+    border-radius: 5px;
+    background-color: rgb(197, 57, 57);
+     width:10% ;
+     position: absolute;
+     margin-left:30%;
+     color: white;
+     right: 20px;
+     text-align: center;
+    
+}
+.btn_editar{
+    background-color: rgb(65, 65, 235);
+    width: 10%;
+    margin-left:20%;
+    position: absolute;
+    color: white;
+   left: 19rem;
+    text-align: center;
+}
+.title_hdos{
+      font-style:italic;
+      text-align: center;
+      margin-top:10px;
+}
+
+.mistake{
+    width: 20rem;
+    position:absolute;
+    background-color: rgb(199, 54, 54);
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    height: 30px;
+    top:13.8rem;
+    left: 40rem;
+    margin-left:105px;
+    width: 29rem;
+    text-align: center;
+}
