@@ -25,6 +25,7 @@ function Listadonombres() {
               id:uniqid(), //uniq es una función
               nuevoNombre:nombre
         };
+        
         setListaNombres([...listaNombres, objUsuario])
         //entrada.value=""
         setNombre("")

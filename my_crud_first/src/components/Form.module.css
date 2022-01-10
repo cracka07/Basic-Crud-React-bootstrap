@@ -51,7 +51,7 @@
 }
 
 .mistake{
-    width: 20rem;
+    
     position:absolute;
     background-color: rgb(199, 54, 54);
     color: white;
@@ -59,8 +59,8 @@
     font-size: 19px;
     height: 30px;
     top:13.8rem;
-    left: 40rem;
+    left: 44.5rem;
     margin-left:105px;
-    width: 29rem;
+    width: 25rem;
     text-align: center;
 }
